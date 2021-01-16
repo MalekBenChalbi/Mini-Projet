@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "admin": [
+    {
+      "username": "Malek",
+      "email": "altair1312@hotmail.fr",
+      "password": "admin",
+      "role": 0,
+      "id": 4
+    }
+  ],
+  "connectedUser": []
+}
